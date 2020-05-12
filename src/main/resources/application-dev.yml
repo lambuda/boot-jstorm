@@ -1,0 +1,5 @@
+#elasticsearch ºØ»∫≈‰÷√
+es:
+  host: wlelas.rrswl.com
+  port: 9200
+  scheme: http

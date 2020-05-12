@@ -1,0 +1,13 @@
+
+# 应用服务web访问端口
+server:
+  port: 8080
+
+spring:
+  application:
+    name: newoms-jstorm-es
+  profiles:
+    active: dev
+
+
+
